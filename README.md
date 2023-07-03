@@ -9,19 +9,19 @@ Tools used in blockchain voting:
 Node.js is a popular server-side JavaScript runtime environment,used in Ethereum voting because it allows developers to create decentralized applications (dApps) on the Ethereum blockchain using JavaScript.
 
 
-2.npm
+2.npm :
 Npm (Node Package Manager) is a package manager that allows developers to easily install, manage, and update packages and libraries that are used in their projects.
 
 
-3.Ganache
+3.Ganache:
 Ganache is a personal blockchain for Ethereum development that is often used in testing and development environments.
 
 
-4.Truffle 
+4.Truffle:
 Truffle is a popular development framework for building decentralized applications (dApps) on the Ethereum blockchain. It can be used to create, test, and deploy the smart contracts that manage the voting process.  
 
 
-5.Metamask
+5.Metamask:
 Metamask is a popular browser extension wallet used for interacting with the Ethereum blockchain.
 
 
