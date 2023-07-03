@@ -5,6 +5,7 @@ Blockchain voting using smart contracts is a new and innovative approach to elec
 
 
 Tools used in blockchain voting:
+
 1.node.js
 Node.js is a popular server-side JavaScript runtime environment,used in Ethereum voting because it allows developers to create decentralized applications (dApps) on the Ethereum blockchain using JavaScript.
 
